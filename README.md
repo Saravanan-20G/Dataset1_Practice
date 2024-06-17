@@ -5,5 +5,7 @@ This dataset contains information about student marks, admission status, and gen
 
 ## Content:
 Marks: Numerical scores or marks achieved by students.
+
 Admitted: Binary variable indicating whether a student was admitted ('Yes') or not admitted ('No').
+
 Gender: Categorical variable indicating the gender of the student ('Male' or 'Female').
